@@ -17,6 +17,7 @@ import utilPack.ReadPropFile;
 public class LoginTest01 extends BaseTest{
 	
 	//Company cmp;
+	//Test commit
 	ReadPropFile prop;
 	Login login;	
 	@Test
