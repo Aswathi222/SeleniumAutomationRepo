@@ -15,7 +15,7 @@ Company cmp;
  ReadPropFile prop;
   
  
- //I Have edited Login Test2
+ 
  @Test
  public void checkLoginPageIvalidCase() throws IOException {
 	 login = new Login(getDriver());
