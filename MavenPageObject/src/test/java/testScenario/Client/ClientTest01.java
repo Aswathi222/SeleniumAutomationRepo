@@ -25,7 +25,7 @@ public class ClientTest01 extends BaseTest {
 	
 	@Test
 	public void clientTest() throws Exception {
-		
+		//Test
 		clnt=new Clients(getDriver());
 		comp = new Company(getDriver());
 		login = new Login(getDriver());
